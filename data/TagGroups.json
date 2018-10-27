@@ -1,0 +1,144 @@
+{
+    "TagGroups": {
+        "Farben": {
+            "Weiß": 53482,
+            "Schwarz": 28606,
+            "Grau": 21278,
+            "Rot": 18262,
+            "Blau": 17911,
+            "Braun": 16121,
+            "Grün": 13481,
+            "Gelb": 11138,
+            "Schwarzweiß": 10390,
+            "Gold": 9399,
+            "Beige": 7114,
+            "Ocker": 7475,
+            "Orange": 6418,
+            "Bunt": 5127
+        },
+        "Menschen": {
+            "Mann": 22535,
+            "Frau": 17123,
+            "Menschen": 15124,
+            "Männer": 12103,
+            "Frauen": 8116,
+            "Mensch": 7350,
+            "Engel": 7568,
+            "Nackt": 6412,
+            "Kind": 6394,
+            "Alt": 6392,
+            "Jesus": 6075
+        },
+        "Technik": {
+            "Porträt": 16347,
+            "Gemälde": 14590,
+            "Zeichnung": 14573,
+            "Foto": 13894,
+            "Grafik": 13744,
+            "Fotografie": 9820,
+            "Malerei": 8447,
+            "Druck": 8052,
+            "Öl": 7244,
+            "Hintergrund": 7214,
+            "Ornament": 7104,
+            "Stich": 6951,
+            "Säule": 6598,
+            "Skulptur": 6397,
+            "Bildnis": 6379,
+            "Skizze": 6073,
+            "Photo": 5989
+        },
+        "Körperteile": {
+            "Haare": 10529,
+            "Hand": 9029,
+            "Falten": 8401,
+            "Bart": 8327,
+            "Gesicht": 8138,
+            "Augen": 8098,
+            "Nase": 7893,
+            "Kopf": 7181,
+            "Hände": 7126,
+            "Mund": 6718,
+            "Haar": 6013,
+            "Arm": 5865,
+            "Locken": 5851
+        },
+        "Kleidung": {
+            "Gewand": 8620,
+            "Kleid": 8344,
+            "Hut": 8336,
+            "Mantel": 8273,
+            "Umhang": 6573,
+            "Kragen": 5681
+        },
+        "Umgebung": {
+            "Himmel": 16316,
+            "Stein": 12168,
+            "Baum": 11290,
+            "Landschaft": 11053,
+            "Bäume": 10334,
+            "Wolken": 10252,
+            "Wasser": 8742,
+            "Holz": 8424,
+            "Blätter": 7198,
+            "Sonne": 6960,
+            "Natur": 6669,
+            "Boden": 6616,
+            "Weg": 6399,
+            "Blumen": 5822,
+            "Berg": 5682,
+            "Wolke": 5644,
+            "Wald": 5630,
+            "Wiese": 5630,
+            "Steine": 5468,
+            "Gras": 5389,
+            "Hügel": 5132,
+            "Pflanzen": 5022,
+            "Blatt": 5016
+        },
+        "Licht": {
+            "Licht": 18828,
+            "Schatten": 16652,
+            "Hell": 11899,
+            "Dunkel": 11583
+        },
+        "Gebäude": {
+            "Fenster": 12545,
+            "Kirche": 12412,
+            "Gebäude": 10555,
+            "Haus": 10311,
+            "Bogen": 8699,
+            "Säulen": 8534,
+            "Wand": 8128,
+            "Stadt": 7157,
+            "Mauer": 7097,
+            "Dach": 6555,
+            "Turm": 5949,
+            "Häuser": 5728,
+            "Tür": 5562
+        },
+        "Gegenstände": {
+            "Buch": 8137,
+            "Figuren": 8064,
+            "Tuch": 7690,
+            "Rahmen": 7650,
+            "Figur": 5793,
+            "Papier": 5720,
+            "Marmor": 5024
+        },
+        "Zeichen": {
+            "Schrift": 11767,
+            "Text": 7721,
+            "Rund": 5872,
+            "Muster": 5646,
+            "Kreuz": 5624
+        },
+        "Tätigkeiten": {
+            "Sitzen": 7732
+        },
+        "Zeit": {
+            "Barock": 5794,
+            "Mittelalter": 5033
+        }
+    }
+}

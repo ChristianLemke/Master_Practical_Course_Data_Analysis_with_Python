@@ -1,0 +1,91 @@
+cluster_id,count,count_rel,epoch,country,cluster_name
+66,239,0.144848484848,1875-1914,Germany,"Blauer Reiter, Expressionismus"
+95,232,0.140606060606,1875-1914,Germany,Farben
+107,173,0.104848484848,1875-1914,Germany,Fotografie
+5,157,0.0951515151515,1875-1914,Germany,"Zeichnung, Skizze"
+3,155,0.0939393939394,1875-1914,Germany,"Frau, nackt"
+73,132,0.08,1875-1914,Germany,"Verzierung, Ornament"
+69,132,0.08,1875-1914,Germany,Gesicht
+51,127,0.0769696969697,1875-1914,Germany,"Landschaft, Wiese"
+11,122,0.0739393939394,1875-1914,Germany,"Frau, weibliche Kleidung"
+6,114,0.0690909090909,1875-1914,Germany,Pferd
+2,158,0.134812286689,1848-1874,Germany,"Architektur, Fassade"
+15,103,0.0878839590444,1848-1874,Germany,Kirchenarchitektur
+5,103,0.0878839590444,1848-1874,Germany,"Zeichnung, Skizze"
+39,102,0.0870307167235,1848-1874,Germany,"Treppe, Aufgang"
+27,88,0.0750853242321,1848-1874,Germany,"Gebirge, Landschaft"
+50,85,0.0725255972696,1848-1874,Germany,"Haus, Architektur"
+0,85,0.0725255972696,1848-1874,Germany,"Wetter, Himmel"
+107,85,0.0725255972696,1848-1874,Germany,Fotografie
+32,82,0.0699658703072,1848-1874,Germany,"Burg, Schloss"
+34,79,0.0674061433447,1848-1874,Germany,"Garten, Park"
+5,422,0.186478126381,1789-1847,Germany,"Zeichnung, Skizze"
+27,285,0.125939019001,1789-1847,Germany,"Gebirge, Landschaft"
+26,284,0.125497127707,1789-1847,Germany,"Antike Architektur, Saeulen"
+60,272,0.12019443217,1789-1847,Germany,"Felsen, Steine"
+2,239,0.105612019443,1789-1847,Germany,"Architektur, Fassade"
+0,205,0.090587715422,1789-1847,Germany,"Wetter, Himmel"
+72,184,0.0813079982324,1789-1847,Germany,"Tor, Mauer, Eingang"
+15,175,0.0773309765798,1789-1847,Germany,Kirchenarchitektur
+109,156,0.0689350419797,1789-1847,Germany,"Meer, Strand, Kueste"
+39,154,0.0680512593902,1789-1847,Germany,"Treppe, Aufgang"
+95,330,0.191193511008,1875-1914,France,Farben
+3,206,0.119351100811,1875-1914,France,"Frau, nackt"
+107,200,0.115874855156,1875-1914,France,Fotografie
+69,167,0.0967555040556,1875-1914,France,Gesicht
+84,166,0.0961761297798,1875-1914,France,"Tisch, Tischgarnitur"
+17,164,0.0950173812283,1875-1914,France,Blumen
+102,163,0.0944380069525,1875-1914,France,"Gauguin, indigen"
+68,133,0.077056778679,1875-1914,France,Stillleben
+45,131,0.0758980301275,1875-1914,France,"Frauengruppe, Damen"
+11,123,0.0712630359212,1875-1914,France,"Frau, weibliche Kleidung"
+107,182,0.171052631579,1848-1874,France,Fotografie
+11,106,0.0996240601504,1848-1874,France,"Frau, weibliche Kleidung"
+84,102,0.0958646616541,1848-1874,France,"Tisch, Tischgarnitur"
+43,101,0.0949248120301,1848-1874,France,"Mann, Bart"
+3,94,0.0883458646617,1848-1874,France,"Frau, nackt"
+1,89,0.0836466165414,1848-1874,France,"Mann, elegante Kleidung"
+8,88,0.0827067669173,1848-1874,France,Sitzmoeglichkeit
+55,87,0.0817669172932,1848-1874,France,"Maennergruppe, Herren"
+104,84,0.0789473684211,1848-1874,France,"Hand, Finger"
+45,76,0.0714285714286,1848-1874,France,"Frauengruppe, Damen"
+69,131,0.132189707366,1789-1847,France,Gesicht
+3,119,0.120080726539,1789-1847,France,"Frau, nackt"
+99,115,0.116044399596,1789-1847,France,"Skulptur, Statue"
+76,95,0.095862764884,1789-1847,France,Bueste
+62,90,0.0908173562059,1789-1847,France,"Krieg, Schlacht, Soldaten"
+79,89,0.0898082744702,1789-1847,France,"Mann, Mensch, Herr"
+5,85,0.0857719475277,1789-1847,France,"Zeichnung, Skizze"
+26,83,0.0837537840565,1789-1847,France,"Antike Architektur, Saeulen"
+53,82,0.0827447023209,1789-1847,France,"Ruestung, Schwert, Helm, Ritter"
+91,82,0.0827447023209,1789-1847,France,Tod
+107,39,0.219101123596,1875-1914,Britain,Fotografie
+97,32,0.179775280899,1875-1914,Britain,"Dame, Frauenkleidung"
+73,31,0.174157303371,1875-1914,Britain,"Verzierung, Ornament"
+3,28,0.157303370787,1875-1914,Britain,"Frau, nackt"
+9,27,0.151685393258,1875-1914,Britain,"Frau, nackt, nah"
+11,27,0.151685393258,1875-1914,Britain,"Frau, weibliche Kleidung"
+7,24,0.134831460674,1875-1914,Britain,"Geometrische Formen, abstrakt"
+17,24,0.134831460674,1875-1914,Britain,Blumen
+45,20,0.112359550562,1875-1914,Britain,"Frauengruppe, Damen"
+5,19,0.106741573034,1875-1914,Britain,"Zeichnung, Skizze"
+107,220,0.488888888889,1848-1874,Britain,Fotografie
+12,60,0.133333333333,1848-1874,Britain,Strasse
+55,59,0.131111111111,1848-1874,Britain,"Maennergruppe, Herren"
+21,44,0.0977777777778,1848-1874,Britain,"Uniform, Militaer"
+5,43,0.0955555555556,1848-1874,Britain,"Zeichnung, Skizze"
+38,41,0.0911111111111,1848-1874,Britain,"Kutsche, Wagen"
+50,38,0.0844444444444,1848-1874,Britain,"Haus, Architektur"
+62,33,0.0733333333333,1848-1874,Britain,"Krieg, Schlacht, Soldaten"
+72,32,0.0711111111111,1848-1874,Britain,"Tor, Mauer, Eingang"
+6,30,0.0666666666667,1848-1874,Britain,Pferd
+100,242,0.248971193416,1789-1847,Britain,"William Turner, Sonne"
+0,212,0.218106995885,1789-1847,Britain,"Wetter, Himmel"
+28,145,0.149176954733,1789-1847,Britain,"Segelboot, Segelschiff"
+46,132,0.135802469136,1789-1847,Britain,"Unwetter am Wasser, Wellen"
+29,123,0.126543209877,1789-1847,Britain,"Boote, Schiffe"
+109,122,0.125514403292,1789-1847,Britain,"Meer, Strand, Kueste"
+107,119,0.122427983539,1789-1847,Britain,Fotografie
+13,114,0.117283950617,1789-1847,Britain,"Fluss, Bach"
+4,99,0.101851851852,1789-1847,Britain,"Boot, Schiff"
+50,90,0.0925925925926,1789-1847,Britain,"Haus, Architektur"
