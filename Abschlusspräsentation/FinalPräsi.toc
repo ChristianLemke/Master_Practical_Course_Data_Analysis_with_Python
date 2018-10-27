@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Clustering}{3}{0}{1}
+\beamer@sectionintoc {2}{Analysetools}{7}{0}{2}
+\beamer@sectionintoc {3}{Ergebnisse}{8}{0}{3}
+\beamer@sectionintoc {4}{Ausblick und Zusammenfassung}{17}{0}{4}
+\beamer@sectionintoc {5}{Quellen}{22}{0}{5}
